@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/faruk-sertbay" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://stackoverflow.com/users/23089695/faruk-sertbay" target="_blank"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"/></a>
-  <a href="https://twitter.com/faruksertbayy?s=21" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
+  <a href="https://x.com/farukxsertbay?s=21" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
   <a href="https://dev.to/faruksertbay" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"/></a>
   <a href="https://www.instagram.com/faruksertbayy/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
 </div>
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer who constantly seeks out innovative solutions to everyday problems from Cyprus 🚀<br><br>- 📚 I'm currently learning Javascript,  Node.js, and React.js<br>- 💬 Ask me about anything related to Software Development!<br>- 📫 How to reach me :   <a href="https://www.linkedin.com/in/faruk-sertbay" target="_blank"> <img src="https://img.shields.io/badge/-faruksertbay-blue?style=flat&logo=linkedin" alt="Connect on LinkedIn" />
+<p align="left">I'm a Software Engineer who constantly seeks out innovative solutions to everyday problems from Cyprus 🚀<br><br>- 📚 I'm currently learning Javascript,  Node.js, and React<br>- 💬 Ask me about anything related to Software Development!<br>- 📫 How to reach me :   <a href="https://www.linkedin.com/in/faruk-sertbay" target="_blank"> <img src="https://img.shields.io/badge/-faruksertbay-blue?style=flat&logo=linkedin" alt="Connect on LinkedIn" />
 </a> </p>
 
 ###
